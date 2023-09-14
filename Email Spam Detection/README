@@ -18,11 +18,11 @@ I have used Python libraries numpy and pandas for data manipulation and nltk for
 We check the dataset for any empty data points which may cause discrepancies.
 We convert the mails into string tokens and further into vectors.
 Then we split this data into training and testing data. 
-Since we are using concepts of Natural Language Processing (NLP), a safe apporach is to use the Naive Bayes classifier for building the model.
-I have used Multinomial Naive Bayes classifier for this purpose. 
+Since we are using concepts of Natural Language Processing (NLP), a safe approach is to use the Naive Bayes classifier for building the model.
+I have used the Multinomial Naive Bayes classifier for this purpose. 
 
 
 ## RESULTS
 
 The training data was predicted with an accuracy of 99.76%
-The test data was preicted with an accuracy of 98.69%
+The test data was predicted with an accuracy of 98.69%
