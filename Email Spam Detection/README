@@ -1,8 +1,8 @@
-## EMAIL SPAM DETECTION
+##EMAIL SPAM DETECTION
 
 This is the fourth task in this internship.
 
-## PROBLEM STATEMENT
+#PROBLEM STATEMENT
 
 We’ve all been the recipient of spam emails before. Spam mail, or junk mail, is a type of email
 that is sent to a massive number of users at one time, frequently containing cryptic
@@ -11,7 +11,7 @@ In this Project, use Python to build an email spam detector. Then, use machine l
 train the spam detector to recognize and classify emails into spam and non-spam. Let’s get
 started!
 
-## METHODOLOGY
+#METHODOLOGY
 
 I have used Python libraries numpy and pandas for data manipulation and nltk for string vectorisation.
 
@@ -22,7 +22,7 @@ Since we are using concepts of Natural Language Processing (NLP), a safe approac
 I have used the Multinomial Naive Bayes classifier for this purpose. 
 
 
-## RESULTS
+#RESULTS
 
 The training data was predicted with an accuracy of 99.76%
 The test data was predicted with an accuracy of 98.69%
